@@ -1,0 +1,1 @@
+const String HASURA_URL = 'https://robust-chimp-40.hasura.app/v1/graphql';
